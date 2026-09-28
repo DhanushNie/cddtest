@@ -1,0 +1,5 @@
+Student Name: Dhanush
+Register Number: 101
+Department: CSE
+Marks: 85
+
