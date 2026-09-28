@@ -1,0 +1,4 @@
+Permission Test File
+
+This file is created by Student B to test repository permissions.
+Student B can create and push changes, but merging into main should require Student A approval.
